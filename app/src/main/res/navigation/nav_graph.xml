@@ -15,4 +15,9 @@
         android:name="com.codewithvu.catchat.HelpFragment"
         android:label="fragment_help"
         tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/sentItemsFragment"
+        android:name="com.codewithvu.catchat.SentItemsFragment"
+        android:label="fragment_sent_items"
+        tools:layout="@layout/fragment_sent_items" />
 </navigation>
