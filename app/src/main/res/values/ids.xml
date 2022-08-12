@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id">id_toolbar</item>
+    <item name="nav_host_fragment" type="id">id_nav_host_fragment</item>
+    <item name="bottom_nav" type="id">id_bottom_nav</item>
+</resources>
